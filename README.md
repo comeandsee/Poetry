@@ -1,3 +1,5 @@
+Program for creating poetry in Polish. For this reason, the rest of the description is in Polish.
+
 "# Poezja" 
 
 Program do generowania poezji, generowanych za pomocą Łańcuchów Markowa drugiego stopnia.
