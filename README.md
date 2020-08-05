@@ -20,3 +20,61 @@ Zmiana parametrów następuję poprzez zmianę zmiennych:
 *silowoZasoby - Wymusza nadpisywanie plików zasobów 
 
 *poCichu - Nie wypisuj niczego - przygotuj pliki zasobów w razie potrzeby
+
+
+Przykładowe utwory:
+
+WIERSZ 1
+
+Ze smutkiem
+
+I z męki
+
+Nie skutkiem
+
+Swe pęki
+
+
+Paw z dołu
+
+Krom wszego
+
+Pospołu
+
+Pięknego
+
+
+
+WIERSZ 2
+
+Je że pobiegła ku miastu
+
+Porwał cię bodła ostrogą
+
+Wyrwała się lat dwunastu
+
+Rymy stawić nie pomogą
+
+
+Pieśń była między natłokiem
+
+Przy swym locie o potędze
+
+Ma choć w syntez wsparci wzrokiem
+
+Może dolecieć na księdze
+
+
+Masz pod żadnym namiotem
+
+Woli tajemną rozmowę
+
+Ogrodu ja złego bóg tem
+
+Pierś porani i królowę
+
+
+
+
+
+
